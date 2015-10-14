@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "(float)(((((i_objectList)-&gt;object[0])).posUW).v[0])">
+            </PersistentString>
+            <PersistentString
+               value = "(float)(((i_objectList)-&gt;object[0])).ScreenPosY">
+            </PersistentString>
+            <PersistentString
+               value = "(float)(((((i_objectList)-&gt;object[0])).posUR).v[1])">
+            </PersistentString>
+            <PersistentString
+               value = "(float)((self)-&gt;image1.center.x)">
+            </PersistentString>
+            <PersistentString
+               value = "(float)(((i_objectList)-&gt;object[0])).ScreenPosX">
+            </PersistentString>
+            <PersistentString
+               value = "(float)(((i_objectList)-&gt;object[0])).distUW">
+            </PersistentString>
+            <PersistentString
+               value = "(float)(((i_objectList)-&gt;object[0])).alpha">
+            </PersistentString>
+            <PersistentString
+               value = "(float)(((((i_objectList)-&gt;object[0])).posUR).v[0])">
+            </PersistentString>
+            <PersistentString
+               value = "(float)(((i_objectList)-&gt;object[1])).distUW">
+            </PersistentString>
+            <PersistentString
+               value = "(float)(((((i_objectList)-&gt;object[0])).posUW).v[2])">
+            </PersistentString>
+            <PersistentString
+               value = "(float)(((((i_objectList)-&gt;object[0])).posUW).v[1])">
+            </PersistentString>
+            <PersistentString
+               value = "(float)(((i_objectList)-&gt;object[0])).scale">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[Tester TestTool_AddObjectInPath:atX:atY:atZ:]:Tester.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(float)(((((i_objectList)-&gt;object[0])).posUR).v[2])">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GLKVector3Subtract:GLKVector3.h">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController ChangeSliderUserPosX:]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[Tester TestTool_PlaceUserLookingOnRightInPath:atX:atY:atZ:atAngle:]:Tester.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController calculateObjectPositionsOnScreen]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[Tester TestTool_PlaceUserLookingForwardInPath:atX:atY:atZ:]:Tester.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Model CalculateObjectListPositionsOnScreenForUser:withObjectList:]:Model.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[Tester Test001]:Tester.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[Tester Test002]:Tester.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[Tester TestTool_VerifyObjectScreenPosScaleAlphaOfPath:atXPixels:atYPixels:atDistanceCm:withScale:withAlpha:]:Tester.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
