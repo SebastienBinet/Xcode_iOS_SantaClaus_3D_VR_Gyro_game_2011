@@ -6,7 +6,6 @@ Note: This code was rebuild in 2015 under Xcode7, and there are some artifacts t
 -there is debug information on the iPad screen,
 -the displacement in space sometime has slightly strange behaviour, probably due to gimbal lock issues.
 
-Note: The innitial goal was to double integrate the accelarometer information to obtain the current relative position.
-However since the iPad accelormeter has bias, hysterisys and other non-linearity, it proved to be impossible and I had to change slightly the mechanic of the game.
-
-
+Note: The initial game goal was use the iPad surface as the circle of a butterfly net.
+To do that, I have tried to double integrate the iPad accelerometer information to obtain the current relative position.
+However since the iPad accelerometer MEMS chip has bias, hysterisys and other non-linearity effects, this way proved to be impossible and I had to change slightly the mechanic of the game.
